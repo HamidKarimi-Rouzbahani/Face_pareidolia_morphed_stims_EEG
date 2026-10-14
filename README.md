@@ -59,8 +59,3 @@ The analyses require a standard scientific Python environment with the following
 2. Run script **`0`** to generate processed subject arrays (`Processed_Outputs/`).
 3. Execute the modeling, RSA, and RCA scripts sequentially to replicate the publication figures and statistical outputs.
 
----
-
-## License
-
-This project is licensed under the terms of the MIT License.
